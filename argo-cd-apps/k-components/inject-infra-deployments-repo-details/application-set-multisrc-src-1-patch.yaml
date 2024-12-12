@@ -4,4 +4,4 @@
   value: https://github.com/tnevrlka-test/infra-deployments.git
 - op: replace
   path: /spec/template/spec/sources/1/targetRevision
-  value: preview-remove-jvm-build-service
+  value: preview-preview-remove-jvm-build-service-ahcn

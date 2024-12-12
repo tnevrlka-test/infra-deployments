@@ -13,7 +13,7 @@ images:
     newTag: 38f1c98cff769f7ee98fe16bb57ab4ca0f751f49
 configMapGenerator:
   - literals:
-      - GITHUB_ORG=tnevrlka-org
+      - GITHUB_ORG=tnevrlka-test
     name: github-config
     behavior: replace
   - literals:
