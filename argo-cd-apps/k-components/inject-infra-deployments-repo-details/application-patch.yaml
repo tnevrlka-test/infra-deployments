@@ -4,4 +4,4 @@
   value: https://github.com/tnevrlka-test/infra-deployments.git
 - op: replace
   path: /spec/source/targetRevision
-  value: preview-deploy-preview
+  value: preview-preview-deploy-preview
